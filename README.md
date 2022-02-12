@@ -3,9 +3,9 @@
 ## About me
 ### *Computer Engineering Student at [USAL](https://usal.es/).* 📚
 
-- 🔭 I’m currently working on **Routing machines and maps**
-- 🌱 I’m currently learning **HTML5/CSS3/Javascript**
-- 🤔 I’m looking for help with **Graphhopper/Leaflet**
+- 🔭 I’m currently working on **ROS and robots**
+- 🌱 I’m currently learning **WebDev/ROS**
+- 🤔 I’m looking for help with **WebDev**
 
 
 ## Stats📊
